@@ -14,7 +14,7 @@ Triakr Rail est un design d'application de réservation de train. Celui ci à é
 
 <sub>Aperçu de l'interface.<sub>
 
-L'écran principal se présente simplement avec un emplacement de recherche dans lequel on peut préciser le type de biller que l'on cherche sans pourtant donner trop d'options. Lorsqu'un des champs de recherche est sélectionné, un modal apparaîtra afin de pouvoir préciser son choix.
+L'écran principal se présente simplement avec un emplacement de recherche dans lequel on peut préciser le type de billet que l'on cherche sans pourtant donner trop d'options. Lorsqu'un des champs de recherche est sélectionné, un modal apparaîtra afin de pouvoir préciser son choix.
 
 La page se complète avec les trajets récents et un élement affichant des conseils à l'utilisateur.
 
