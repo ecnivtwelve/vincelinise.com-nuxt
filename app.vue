@@ -5,7 +5,7 @@
 <template>
   <div>
     <NuxtLayout>
-      <NuxtPage/>
+      <NuxtPage class="page"/>
     </NuxtLayout>
   </div>
 </template>
@@ -27,5 +27,11 @@
   .page-leave-to {
     opacity: 0;
     transform: translateX(-20px);
+  }
+
+  @media screen and (max-width: 720px) {
+    .page {
+      margin-top: 140px;
+    }
   }
 </style>
