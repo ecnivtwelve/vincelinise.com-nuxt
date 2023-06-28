@@ -1,0 +1,70 @@
+{
+  "projects" : [
+    {
+      "title" : "Papillon - client Pronote et ÉcoleDirecte alternatif",
+      "description" : "Papillon est une appli presque révolutionnaire qui accompagne votre vie scolaire",
+      "category" : "Application mobile",
+      "image" : "/images/papillon.png",
+      "url" : "https://getpapillon.xyz",
+      "keywords" : "Papillon, Pronote, ÉcoleDirecte, application, mobile, Android, iOS, Ionic, open source"
+    },
+    {
+      "title" : "kmake - online JSON lyrics maker",
+      "description" : "kmake vous permet de créer des paroles synchronisées en ligne très simplement",
+      "category" : "Application web",
+      "image" : "/images/kmake.png",
+      "url" : "https://kmake.vincelinise.com",
+      "keywords" : "kmake, lyrics, paroles, synchronisées, online, web, application, open source"
+    },
+    {
+      "title" : "Free Conso - une appli pour gérer son forfait",
+      "description" : "Free Mobile Conso est une application open source qui vous permet de gérer votre forfait Free",
+      "category" : "Application mobile",
+      "image" : "/images/freeconso.png",
+      "url" : "https://github.com/ecnivtwelve/free-mobile-conso",
+      "keywords" : "Free, Free Mobile, forfait, application, mobile, Android, iOS, open source"
+    },
+    {
+      "title" : "Vito’bus Horaires - appli pour les bus de Vitré",
+      "description" : "L’app Vitobus est une application non officielle pour consulter les horaires de bus à Vitré",
+      "category" : "Application mobile",
+      "image" : "/images/vitobus.png",
+      "url" : "https://github.com/ecnivtwelve/vit-horaires",
+      "keywords" : "Vitobus, Vitré, Bretagne, transport, bus, horaires, application, mobile, Android, iOS, Ionic, open source"
+    }
+  ],
+  "designs": [
+    {
+      "title" : "Fynance - Brand identity et UI/UX design",
+      "description" : "Fynance est une néo-banque imaginaire 100% mobile conçue avec un design moderne.",
+      "category" : "Identité graphique",
+      "image" : "/images/fynance.png",
+      "url" : "#",
+      "keywords" : "Fynance, néo-banque, banque, application, mobile, Android, iOS, UI, UX, design, identité, graphique"
+    },
+    {
+      "title" : "Application Triakr Rail - réservation de train",
+      "description" : "Triakr Rail est une application mobile conçue pour réserver simplement un billet de train.",
+      "category" : "UI/UX design",
+      "image" : "/images/triakrrail.png",
+      "url" : "#",
+      "keywords" : "Triakr Rail, train, application, mobile, Android, iOS, UI, UX, design"
+    },
+    {
+      "title" : "Conseil de vie lycéenne du lycée Bertrand d’Argentré",
+      "description" : "Design graphique et application d’une nouvelle identité pour le CVL de mon lycée",
+      "category" : "Identité graphique",
+      "image" : "/images/cvl.png",
+      "url" : "#",
+      "keywords" : "CVL, conseil, vie, lycéenne, lycée, Bertrand, d’Argentré, Vitré, Bretagne, 35 identité, graphique"
+    },
+    {
+      "title" : "Académie Reddington - serveur Discord",
+      "description" : "Identité visuelle d’un serveur Discord scolaire et des services autour",
+      "category" : "Identité graphique",
+      "image" : "/images/reddington.png",
+      "url" : "#",
+      "keywords" : "Reddington, Discord, serveur, identité, graphique"
+    }
+  ]
+}
