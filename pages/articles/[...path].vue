@@ -4,6 +4,10 @@
     import '~/assets/markdown.css'
 
     useHead({
+        meta: [
+            { name: 'og:site_name', content: 'Vince Linise' },
+            { name: 'og:locale', content: 'fr_FR' }
+        ],
         link: [
             { rel: 'icon', type: 'image/png', href: '/favicon.png' },
         ],
