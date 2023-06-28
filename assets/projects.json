@@ -39,7 +39,7 @@
       "description" : "Fynance est une néo-banque imaginaire 100% mobile conçue avec un design moderne.",
       "category" : "Identité graphique",
       "image" : "/images/fynance.png",
-      "url" : "#",
+      "url" : "/articles/projects/fynance",
       "keywords" : "Fynance, néo-banque, banque, application, mobile, Android, iOS, UI, UX, design, identité, graphique"
     },
     {
@@ -47,15 +47,15 @@
       "description" : "Triakr Rail est une application mobile conçue pour réserver simplement un billet de train.",
       "category" : "UI/UX design",
       "image" : "/images/triakrrail.png",
-      "url" : "#",
+      "url" : "/articles/projects/triakr-rail",
       "keywords" : "Triakr Rail, train, application, mobile, Android, iOS, UI, UX, design"
     },
     {
-      "title" : "Conseil de vie lycéenne du lycée Bertrand d’Argentré",
+      "title" : "Communication pour mon conseil de vie lycéenne",
       "description" : "Design graphique et application d’une nouvelle identité pour le CVL de mon lycée",
       "category" : "Identité graphique",
       "image" : "/images/cvl.png",
-      "url" : "#",
+      "url" : "/articles/projects/conseil-vie-lyceenne",
       "keywords" : "CVL, conseil, vie, lycéenne, lycée, Bertrand, d’Argentré, Vitré, Bretagne, 35 identité, graphique"
     },
     {
@@ -63,7 +63,7 @@
       "description" : "Identité visuelle d’un serveur Discord scolaire et des services autour",
       "category" : "Identité graphique",
       "image" : "/images/reddington.png",
-      "url" : "#",
+      "url" : "/articles/projects/academie-reddington",
       "keywords" : "Reddington, Discord, serveur, identité, graphique"
     }
   ]

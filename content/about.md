@@ -1,6 +1,6 @@
 ---
 title: A propos de moi
-description: Une simple description de qui je suis
+description: Une simple description de qui je suis, ce que je fais, depuis quand, et surtout comment est arrivé ce site web.
 date: 2023-06-26 17:21
 author: Vince Linise
 image: /images/about_me.png
