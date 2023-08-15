@@ -1,11 +1,12 @@
 <script setup>
-    import { Github, Twitter, Youtube } from 'lucide-vue-next';
+    import { Figma } from 'lucide-vue-next';
+import { Github, Youtube } from 'lucide-vue-next';
 </script>
 
 <template>
-    <img src="~/assets/background_gradient.png" class="background_gradient" alt="background_gradient" />
-
     <header>
+        <img src="~/assets/background_gradient.png" class="background_gradient" alt="background_gradient" />
+
         <div class="me">
             <img src="~/assets/avatar_me.png" class="avatar" alt="avatar" />
             <div class="me_text">
@@ -17,17 +18,19 @@
         <nav>
             <NuxtLink to="/">Projets</NuxtLink>
             <NuxtLink to="/articles">Articles</NuxtLink>
-            <NuxtLink to="/articles/about">A propos</NuxtLink>
 
             <div class="socials">
                 <a href="https://github.com/ecnivtwelve/" target="_blank">
-                <Github />
+                  <Github />
                 </a>
-                <a href="https://twitter.com/ecnivtwelve/" target="_blank">
-                <Twitter />
+                <a href="https://x.com/ecnivtwelve/" target="_blank">
+                  <XTwitter />
                 </a>
                 <a href="https://youtube.com/@ecnivtwelve/" target="_blank">
-                <Youtube />
+                  <Youtube />
+                </a>
+                <a href="https://figma.com/@ecnivtwelve">
+                  <Figma />
                 </a>
             </div>
         </nav>
@@ -156,6 +159,7 @@
       flex-direction: column;
       align-items: center;
       justify-content: flex-start;
+      z-index: 999;
     }
 
     nav {
@@ -255,11 +259,14 @@
     width: 100%;
     height: 280px;
     object-fit: cover;
+    object-position: top;
   }
 
   @media screen and (max-width: 620px) {
     .background_gradient {
       top: 0px;
+      z-index: -99;
+      opacity: 0.25;
     }
   }
 </style>

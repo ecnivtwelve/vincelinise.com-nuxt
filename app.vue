@@ -21,12 +21,12 @@
 
   .page-enter-from{
     opacity: 0;
-    transform: translateX(20px);
+    transform: translateY(-20px);
   }
 
   .page-leave-to {
     opacity: 0;
-    transform: translateX(-20px);
+    transform: translateY(20px);
   }
 
   @media screen and (max-width: 720px) {

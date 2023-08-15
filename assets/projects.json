@@ -10,7 +10,7 @@
     },
     {
       "title" : "kmake - online JSON lyrics maker",
-      "description" : "kmake vous permet de créer des paroles synchronisées en ligne très simplement",
+      "description" : "kmake vous permet de créer des paroles synchronisées en ligne en quelques clics et de les partager",
       "category" : "Application web",
       "image" : "/images/kmake.png",
       "url" : "https://kmake.vincelinise.com",
@@ -60,7 +60,7 @@
     },
     {
       "title" : "Académie Reddington - serveur Discord",
-      "description" : "Identité visuelle d’un serveur Discord scolaire et des services autour",
+      "description" : "Identité visuelle d’un serveur Discord scolaire et des services communautaires proposés autour",
       "category" : "Identité graphique",
       "image" : "/images/reddington.png",
       "url" : "/articles/projects/academie-reddington",

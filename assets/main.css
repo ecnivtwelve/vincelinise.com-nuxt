@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
 body {
-  max-width: calc(900px + 24px * 2);
+  max-width: calc(950px + 24px * 2);
   margin: 0 auto;
   background: #F9F9F9;
   min-height: 100vh;
